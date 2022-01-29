@@ -1,0 +1,19 @@
+{
+    "name": "node-js-express",
+    "version": "1.0.0",
+    "description": "MODULO 04: NODE, JS , EXPRESS + HTML CSS- DH 2022 FULL-STACK",
+    "entry-point": "node app.js",
+    "scripts": {
+        "test": "npm run test"
+    },
+    "keywords": [],
+    "author": "mendoncabotechiaerikaluisa@gmail.com",
+    "license": "ISC",
+    "": "",
+    "dependencies": {
+        "express": "^4.17.2",
+        "package": "^1.0.1",
+        "package-lock": "^1.0.5",
+        "package.json": "^2.0.1"
+    }
+}
