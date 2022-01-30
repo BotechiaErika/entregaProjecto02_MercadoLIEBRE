@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BotechiaErika/entregaProjecto02_MercadoLIEBRE/issues"
   },
-  "homepage": "https://github.com/BotechiaErika/entregaProjecto02_MercadoLIEBRE#readme"
+  "homepage": "https://github.com/BotechiaErika/entregaProjecto02_MercadoLIEBRE#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
